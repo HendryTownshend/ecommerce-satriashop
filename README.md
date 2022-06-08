@@ -1,4 +1,4 @@
-# ecommerce-satriashop
+# Aplikasi E-COMMERCE SatriaShop
 
 ![ecommerce1](https://user-images.githubusercontent.com/73348728/172502977-5db22519-cd08-444b-9eed-ceb1166e441c.png)
 
@@ -22,10 +22,14 @@ Admin dapat mengelola website SatriaShop Seperti :
 - Setting
 
 Gunakan username dan password dibawah ini untuk dapat mengakses aplikasi 👍
+
 **Member**
+
 username : hendry123
+
 password : sasa8090
 
 **Admin**
 username : admin123
+
 password : sasa8090
